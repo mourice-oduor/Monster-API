@@ -1,0 +1,15 @@
+https://github.com/FaztWeb/nodejs-sequelize-restapi-postgres
+https://github.com/bbachi/nodejs-restapi-postgresql
+https://github.com/bezkoder/node-js-postgresql-crud-example
+https://github.com/naveteam/back-boilerplate
+https://github.com/geshan/nodejs-posgresql
+https://github.com/zmts/supra-api-nodejs
+https://github.com/Varun-Hegde/Conduit_NodeJS
+https://github.com/taniarascia/node-api-postgres
+https://github.com/didinj/secure-node-express-postgresql-passport
+https://github.com/didinj/node-express-oauth2-postgresql
+https://github.com/MarkKhramko/nodejs-express-jwt
+https://github.com/topcoder-platform-templates/nodejs-postgresql-rest-api
+https://github.com/yhagio/node-postgres-api-starter
+
+https://github.com/didinj/node-express-postgresql-sequelize 
